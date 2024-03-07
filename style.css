@@ -1,7 +1,9 @@
 *{
-    border: 1px solid #000;
+    border: 1.5px solid #000;
     margin: 5px;
     font-family: Roboto;
+    color: #398515;
+    font-size: 20px;
 }
 
 header{
@@ -17,9 +19,8 @@ nav{
 aside{
     display: inline-block;
     text-align: center;
-    width: 21%;
-    padding: 27vh;
-    margin-left: 12.5px;
+    width: 20.9%;
+    padding: 27.45vh;
 }
 
 footer{
