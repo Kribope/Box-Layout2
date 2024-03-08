@@ -2,6 +2,9 @@
     border: 1.5px solid #000;
     margin: 5px;
     font-family: system-ui;
+    font-size: 20px;
+    color: #317804;
+    font-weight: bold;
 }
 
 header{
@@ -18,7 +21,7 @@ aside{
     display: inline-block;
     text-align: center;
     width: 20.5%;
-    padding: 27.45vh;
+    padding: 27.43vh;
 }
 
 footer{
