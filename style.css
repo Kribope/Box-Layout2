@@ -1,9 +1,7 @@
 *{
     border: 1.5px solid #000;
     margin: 5px;
-    font-family: Roboto;
-    color: #398515;
-    font-size: 20px;
+    font-family: system-ui;
 }
 
 header{
@@ -19,7 +17,7 @@ nav{
 aside{
     display: inline-block;
     text-align: center;
-    width: 20.9%;
+    width: 20.5%;
     padding: 27.45vh;
 }
 
